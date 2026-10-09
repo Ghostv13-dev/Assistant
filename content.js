@@ -1,4 +1,4 @@
-import { telegram } from "../telegram.js";
+/import { telegram } from "../telegram.js";
 import { getConfig } from "../kv/config.js";
 
 export const Content = {
